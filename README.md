@@ -6,7 +6,7 @@ A full end-to-end ML pipeline + interactive web dashboard for
 
 ---
 
-https://smart-seg.up.railway.app
+https://smartseg.up.railway.app
 
 ## Project Structure
 
