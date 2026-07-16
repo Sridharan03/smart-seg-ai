@@ -1,14 +1,14 @@
 # 🚀 SmartSegment - AI/ML Customer Segmentation
 
 # Mall Customer Segmentation
-###  — Hackathon Project
+###  — Hackathon Winning Project(1st place)
 
 A full end-to-end ML pipeline + interactive web dashboard for
 **E-Commerce Behavioural Customer Segmentation** using the Mall Customers dataset.
 
 ---
-
-https://smartseg.up.railway.app
+RUN WEBSITE HERE!!!
+https://smartsegmentbykolarkoders.onrender.com
 
 ## 📌 Overview
 
