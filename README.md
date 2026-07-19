@@ -42,15 +42,46 @@ SmartSegment analyzes customer data and automatically groups customers into mean
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Jupyter Notebook / Python IDE
+*Programming Languages
+
+Python
+
+*Machine Learning
+
+Scikit-learn
+K-Means Clustering
+StandardScaler
+Silhouette Analysis
+Elbow Method
+Joblib
+
+*Data Processing
+
+Pandas
+NumPy
+
+*Backend
+
+Flask
+
+*Frontend
+
+HTML5
+CSS3
+JavaScript
+Bootstrap
+
+*Visualization
+
+Chart.js
+Matplotlib
+
+*Deployment
+
+Railway
+Render
 
 ---
 
