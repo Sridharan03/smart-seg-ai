@@ -50,16 +50,16 @@ Python
 
 *Machine Learning
 
-Scikit-learn
-K-Means Clustering
-StandardScaler
-Silhouette Analysis
-Elbow Method
+Scikit-learn,
+K-Means Clustering,
+StandardScaler,
+Silhouette Analysis,
+Elbow Method,
 Joblib
 
 *Data Processing
 
-Pandas
+Pandas,
 NumPy
 
 *Backend
@@ -68,19 +68,19 @@ Flask
 
 *Frontend
 
-HTML5
-CSS3
-JavaScript
+HTML5,
+CSS3,
+JavaScript,
 Bootstrap
 
 *Visualization
 
-Chart.js
+Chart.js,
 Matplotlib
 
 *Deployment
 
-Railway
+Railway,
 Render
 
 ---
